@@ -1,0 +1,204 @@
+
+ajouter
+add
+
+ajuster
+adjust
+
+autoriser
+allow
+
+appliquer
+apply
+
+assembler
+assemble
+
+démonter
+disassemble
+
+éviter
+avoid
+
+courber
+bend
+
+controler
+check
+
+couper
+cut
+
+jeter
+discard
+
+dessiner
+draw
+
+forer
+drill
+
+faire tomber
+drop
+
+vider
+empty
+
+remplir
+fill
+
+plier
+fold
+
+déplier
+unfold
+
+suspendre accrocher
+hang up
+
+tenir
+hold
+
+insérer introduire
+insert
+
+lever
+lift
+
+baisser
+lower
+
+relier
+link
+
+séparer
+separate
+
+mesurer
+measure
+
+mélanger
+mix
+
+bouger déplacer
+move
+
+ouvrir
+open
+
+fermer
+close
+
+faire fonctionner
+operate
+
+décoller
+peel off
+
+exécuter, procéder
+perform
+
+mettre placer
+place
+
+brancher
+plug in
+
+débrancher
+unplug
+
+positionner mettre en place
+position
+
+verser
+pour
+
+appuyer
+press
+
+relâcher
+release
+
+fournir
+provide
+
+pousser
+push
+
+tirer
+pull
+
+mettre
+put
+
+enlever
+remove
+
+visser
+screw
+
+dévisser
+unscrew
+
+attacher fixer
+fix
+
+faire glisser
+slide
+
+souder
+solder
+
+episser
+splice
+
+couper à petits coups
+snip
+
+coller
+stick
+
+mettre en réserve
+store
+
+rembourrer
+stuff
+
+allumer
+switch on
+
+éteindre
+switch off
+
+passer un fill
+thread
+
+faire un noeud
+tie a knot
+
+serrer
+tighten
+
+déserrer
+loosen
+
+basulcer incliner
+tilt
+
+tourner
+turn
+
+utiliser
+use
+
+enrouler
+wind
+
+dérouler
+unwind
+
+câbler
+wire
+
+retirer
+withdraw
