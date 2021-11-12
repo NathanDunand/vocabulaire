@@ -1,6 +1,6 @@
 # vocabulaire
 
-## Installation
+## Installation et utilisation
 ```
 git clone https://github.com/NathanDunand/vocabulaire.git
 cd vocabulaire
