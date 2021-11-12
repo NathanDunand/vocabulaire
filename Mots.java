@@ -1,4 +1,3 @@
-package anglais;
 
 /**
  * Un couple de mot

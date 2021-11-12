@@ -1,5 +1,3 @@
-package anglais;
-import anglais.Mots;
 import java.util.ArrayList;
 import java.util.Collections;
 

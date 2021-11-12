@@ -1,5 +1,3 @@
-package anglais;
-import anglais.Liste;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -21,7 +19,7 @@ public class Controller {
 
 			try {
 
-				File f = new File("/home/nathand/IdeaProjects/vocAnglais/src/anglais/couples2.txt");
+				File f = new File(args[0]);
 
 				BufferedReader b = new BufferedReader(new FileReader(f));
 
